@@ -6,8 +6,7 @@ El presente dispositivo pretende medir el caudal de entrada y de salida de tu si
 ![imagenDispositivo](https://github.com/OscarCalero/Rendimiento_Osmosis/blob/main/ImagenRendimiento.PNG?raw=true)
 
 El dispositivo funciona con una placa tipo NANO o UNO programada con Arduino y las instrucciones de montaje y configuración se encuentran en YouTube:
-
-
+- https://youtu.be/GKfTOiJcCNA
 
 Si utilizas una placa NANO, te recomiendo una de estas dos cajas, en función de si quieres botones o no:
 - https://www.thingiverse.com/thing:5268722
