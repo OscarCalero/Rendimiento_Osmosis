@@ -36,7 +36,7 @@ byte retroiluminacion = 30;
 
 // ******* CAUDAL ********
 #define numeroMuestrasCaudalInstantaneo 3  // Número de valores para promedio caudal instantaneo
-#define horasCalculoRendimiento 2 // Un cálculo de rendimiento requiere de bastantes horas de promedio
+#define horasCalculoRendimiento 50 // Un cálculo de rendimiento requiere de bastantes horas de promedio
 #define alarmaRendimiento 8 // 8 = 8% por debajo del cual se quedara la retroiluminación encendida
 float constanteCaudalimetro = 38;  // Constante de caudalimetro (pulsos por segundo para caudal de 1 Litro/min)
 const uint8_t caudalPinIN = 2;  // PIN caudalimetro IN
