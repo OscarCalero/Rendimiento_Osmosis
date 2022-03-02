@@ -11,6 +11,7 @@ El dispositivo funciona con una placa tipo NANO o UNO programada con Arduino y l
 
 Si utilizas una placa NANO, te recomiendo una de estas dos cajas, en función de si quieres botones o no:
 https://www.thingiverse.com/thing:5268722
+
 https://www.thingiverse.com/thing:4777712
 
 Si utilizar placa UNO te recomiendo una de estas cajas:
